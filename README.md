@@ -5,7 +5,7 @@
 I'm a technical high school (At the CTN, focusing in IT) student passionate about software development, Linux, automation, and understanding how technology works from the inside out.
 
 I enjoy turning ideas into real projects — from desktop applications to personal development environments — while constantly learning new technologies and improving my engineering skills.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinianonymous&show_icons=true)
 ## 🚀 Featured Projects
 
 ### 🌌 Zenith

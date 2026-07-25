@@ -5,9 +5,8 @@
 I'm a technical high school (At the CTN, focusing in IT) student passionate about software development, Linux, automation, and understanding how technology works from the inside out.
 
 I enjoy turning ideas into real projects — from desktop applications to personal development environments — while constantly learning new technologies and improving my engineering skills.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinianonymous&show_icons=true)
-## 🚀 Featured Projects
 
+## 🚀 Featured Projects
 ### 🌌 Zenith
 
 **Personal productivity application built with Python and PyQt6**
@@ -39,8 +38,8 @@ Built around:
 * Shell customization
 * Linux workflows
 
-
 🔗 [View vi-hypr](https://github.com/Vinianonymous/vi-hypr)
+
 ---
 
 ## 🛠️ Technologies & Tools

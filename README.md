@@ -38,8 +38,4 @@ I'm particularly interested in understanding how things work underneath the abst
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinianonymous&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinianonymous&layout=compact&theme=github_dark&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinianonymous&theme=github-compact&hide_border=true)](https://github.com/Vinianonymous)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Vinianonymous&layout=pie&langs_count=9&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Vinianonymous&layout=pie&langs_count=9&theme=dark_github) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Vinianonymous&custom_title=See%20how%20much%20room%20I%20have%20for%20improvement%21&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Vinianonymous&custom_title=See%20how%20much%20room%20I%20have%20for%20improvement%21&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
